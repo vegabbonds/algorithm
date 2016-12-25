@@ -1,2 +1,2 @@
-# algotihm
-jungolg algorithm
+# algorithm
+jungol algorithm
